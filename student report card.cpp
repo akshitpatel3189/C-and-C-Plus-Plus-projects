@@ -241,8 +241,6 @@ void intro()
     cout<<"REPORT CARD";
     gotoxy(35,17);
     cout<<"PROJECT";
-    cout<<"\n\nMADE BY : Code With C";
-    cout<<"\n\nCONTACT : codewithc.com";
     getch();
 
 }
